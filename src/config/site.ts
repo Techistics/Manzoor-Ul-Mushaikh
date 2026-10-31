@@ -164,7 +164,7 @@ export const siteConfig = {
   socialLinks: [
     { label: "Facebook", href: "https://www.facebook.com/", icon: "facebook" }, // TODO: real page URL
     { label: "Instagram", href: "https://www.instagram.com/", icon: "instagram" }, // TODO: real URL
-    { label: "YouTube", href: "https://www.youtube.com/", icon: "youtube" }, // TODO: real channel URL
+    { label: "YouTube", href: "https://youtube.com/@hazratmanzoor-ul-mashaikhr9181?si=vK45xqr0VGkMIDQ4", icon: "youtube" }, // TODO: real channel URL
   ],
   newsletter: {
     heading: "Stay Connected",
