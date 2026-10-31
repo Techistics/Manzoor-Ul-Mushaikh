@@ -196,8 +196,8 @@ export const siteConfig = {
   rightsText: "All rights reserved.",
   legalLinksLabel: "Legal links",
   legalLinks: [
-    { label: "Terms & Agreements", href: "/terms" },
-    { label: "Privacy Policy", href: "/privacy" },
+    { label: "Terms & Agreements", href: "/" },
+    { label: "Privacy Policy", href: "/" },
   ],
 },
   contact: {
