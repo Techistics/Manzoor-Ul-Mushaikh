@@ -7,9 +7,13 @@ const nextConfig: NextConfig = {
   },
   cacheComponents: true,
   partialPrefetching: true,
+  images: {
+    qualities: [75, 80],
+  },
   turbopack: {
     rules: {
       "*.css": {
+        condition: { path: /app[\\/]globals\.css$/ },
         loaders: ["@tailwindcss/turbopack"],
         as: "*.css",
       },
