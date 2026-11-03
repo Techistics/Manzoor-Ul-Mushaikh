@@ -1,13 +1,13 @@
 export const siteConfig = {
-  name: "Manzoor Ul Mushaikh",
-  displayName: "Manzoor Ul Mushaikh",
+  name: "Manzoor Ul Mashaikh",
+  displayName: "Manzoor Ul Mashaikh",
   location: "Okara, Punjab, Pakistan",
   timezone: "Asia/Karachi",
   coordinates: { lat: 30.8138, lng: 73.4534 },
-  url: "https://manzoorulmushaikh.com",
+  url: "https://manzoorulmashaikh.com",
   tagline: "A place for worship, community, and connection.",
   description:
-    "Manzoor ul Mushaikh is a welcoming mosque serving its community through worship, learning, and connection.",
+    "Manzoor ul Mashaikh is a welcoming mosque serving its community through worship, learning, and connection.",
   images: {
     hero: "/hero.jpeg",
     heroAlt: "An illuminated shrine with a brightly lit dome and minarets at night.",
@@ -201,8 +201,8 @@ export const siteConfig = {
   ],
 },
   contact: {
-    address: "Address coming soon",
-    phone: "+1 (000) 000-0000",
+    address: "Ghazi Abad, Okara",
+    phone: "+92 301 349 4382",
     email: "info@manzoorulmushaikh.com",
   },
   prayerTimes: [
